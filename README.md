@@ -1,0 +1,2 @@
+# notes
+📝 The Lecture Notes
